@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+streamlit
+deepface
+xgboost
+lightgbm
+gensim
+imblearn
