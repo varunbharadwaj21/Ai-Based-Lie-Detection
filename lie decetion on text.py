@@ -197,7 +197,4 @@ print(classification_report(y_test, y_pred_lgbm))
 
 
 ##Audio Deception
-#Done in colab
-
-##Video Deception
-torch.cuda.is_available()
+#Used Colab other platforms can be used.
