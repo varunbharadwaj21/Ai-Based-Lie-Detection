@@ -49,7 +49,7 @@ dataset/
 
 ## 📜 License & Citation
 
-This project is licensed under the **GNU GPLv3 License**.  
+This project is licensed under the **GNU GPLv3 License** and **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** 
 Commercial use and redistribution of the model or components without explicit permission is **prohibited**.
 
 > 📣 **Citation Required**:  
